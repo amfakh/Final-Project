@@ -1,0 +1,36 @@
+body {
+    padding-top: 3.5rem;
+    padding-bottom: 3rem;
+}
+
+.container {
+    width: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #0071e9;
+}
+
+.card-header {
+    background: #0071e9;
+    color: #fff;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.noleftpadding {
+    padding-left: 0 !important;
+ }
+
+ .norightpadding {
+     padding-right: 0 !important;
+ }
+
+ .btn-primary {
+    background: #f18f01;
+    border: #f18f01;
+ }

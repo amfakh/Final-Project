@@ -1,0 +1,25 @@
+body {
+    padding-top: 3.5rem;
+    padding-bottom: 3rem;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.judul {
+    color: #007bff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr, th {
+    padding: 10px 20px;
+}
+
+thead.thead-dark {
+    background-color: #007bff !important;
+    color: white;
+    font-weight: unset;
+}
